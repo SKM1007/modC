@@ -1,0 +1,14 @@
+1. Expaired coupons are not disappearing 
+2.instead of deleting expaired coupons we can make the active statusshould be show expaired?
+3.UI updates while installing app it as to open login and register page but now it is opening direct logout page without user login
+4.Adding one user profile in app
+5.While saving coupons the pop message should be coupon saved and it as to return to gpay or any other app which we are coming to save
+7.recently used coupons have to show top of keyboard
+8.Keyboard template updates it looks similar to gboard
+9.Have to change this DD-MM-YYYY to YYYY-MM-DD in future
+10.In keyboard have to add filters like chips have to add food, Travel, ai coupons and etc
+11. Mailid - sign in and for verification and forgot password have to verify by mailid
+12. Affilate commission 
+13 Recent Section
+14 Refresh Button
+15 Coupon Categories
